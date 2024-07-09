@@ -1,0 +1,151 @@
+{
+    "name": "Manikanta Gangam",
+    "location": "Greater Noida, Delhi NCR, India",
+    "email": "e21cseu0947@bennett.edu.in",
+    "linkedin": "www.linkedin.com/in/manikantagangam/",
+    "phone": "+91 9392344779",
+    "portfolio": "https://manikantagangam.github.io/",
+    "github": "https://github.com/manikantagangam",
+    "education": [
+      {
+        "degree": "Bachelor of Technology",
+        "major": "Computer Science Engineering",
+        "university": "Bennett University",
+        "location": "Greater Noida, India",
+        "dates": "2021 - Present",
+        "gpa": "9.46",
+        "details": {
+          "organizations": "Bennett Artificial Intelligence Society",
+          "relevant_coursework": [
+            "Object Oriented Programming",
+            "Data Structures",
+            "Design & Analysis of Algorithms",
+            "Database Management Systems",
+            "Operating Systems",
+            "Software Engineering",
+            "Computer Networks",
+            "Artificial Intelligence & Machine Learning",
+            "NLP"
+          ]
+        }
+      },
+      {
+        "degree": "Data Science Foundations",
+        "university": "Indian Institute of Technology, Madras",
+        "dates": "2020 - Present"
+      }
+    ],
+    "experience": [
+      {
+        "title": "Explainable AI for Chest Diagnosis Prediction (Research Project)",
+        "location": "Greater Noida, India",
+        "employer": "Bennett University",
+        "dates": "Sep 2023 – Dec 2023",
+        "description": "Authored and led the research paper titled 'Explainable AI for Chest Diagnosis Prediction,' accepted at the Second IEEE International Conference on Emerging Trends in Information Technology and Engineering (ic-ETITE'24)."
+      }
+    ],
+    "projects": [
+      {
+        "title": "Tomato Leaf Disease Prediction",
+        "dates": "Apr 2024 – Apr 2024",
+        "description": "Developed and deployed a Convolutional Neural Network (CNN) using TensorFlow to classify tomato leaf diseases with over 97% validation accuracy. The model was deployed using Streamlit for interactive web-based predictions.",
+        "skills": [
+          "TensorFlow/Keras",
+          "Deep Learning",
+          "Streamlit"
+        ]
+      },
+      {
+        "title": "Document Question Answering System",
+        "dates": "Jan 2024 – Jan 2024",
+        "description": "Developed a Streamlit web application for document question answering using Langchain, OpenAi, and Streamlit."
+      },
+      {
+        "title": "Legal Document Summarization",
+        "dates": "Nov 2023 – Dec 2023",
+        "description": "Developed a legal document summarization project using Pegasus transformer from Hugging Face, enhancing summarization techniques, and evaluating with ROUGE scores.",
+        "skills": [
+          "Transformers",
+          "ROUGE"
+        ]
+      },
+      {
+        "title": "University Based Social Network Application",
+        "dates": "Jan 2023 – Present",
+        "description": "Creating a university-based social network application using Flutter and Firebase."
+      },
+      {
+        "title": "Hand Gesture Volume Control",
+        "dates": "Jan 2023 – Mar 2023",
+        "description": "Developed a gesture-controlled volume application using Python, OpenCV, and Mediapipe."
+      },
+      {
+        "title": "Cricket Match Win Predictor",
+        "dates": "Nov 2022 – Nov 2022",
+        "description": "Developed an interactive web application using Streamlit for predicting cricket match outcomes based on logistic regression."
+      },
+      {
+        "title": "Hotel Management System",
+        "dates": "Apr 2022 - Jun 2022",
+        "description": "Designed and implemented user-friendly interfaces for multiple hotel management tasks using Java, Java Swing, and AWT."
+      }
+    ],
+    "leadership_positions": [
+      {
+        "title": "Head of Research Team",
+        "organization": "Bennett Artificial Intelligence Society",
+        "dates": "Aug 2023 – Present",
+        "description": "Leading research efforts and guiding projects within Bennett Artificial Intelligence Society."
+      }
+    ],
+    "achievements": [
+      {
+        "title": "Smart BU Hackathon 2023",
+        "dates": "Achieved 5th position among 200 teams and shortlisted for Smart India Hackathon 2023. Implemented a Sentiment Analysis solution for helpdesk incoming calls."
+      }
+    ],
+    "technical_skills": {
+      "programming_languages": [
+        "Python",
+        "C++",
+        "Java"
+      ],
+      "data_science_ml": [
+        "NumPy",
+        "Pandas",
+        "scikit-learn",
+        "matplotlib",
+        "OpenCV",
+        "TensorFlow",
+        "PyTorch",
+        "NLP",
+        "Word2Vec",
+        "GloVe",
+        "Transformers",
+        "BERT",
+        "Transfer Learning",
+        "Excel"
+      ],
+      "web_development": [
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "Flask",
+        "Django",
+        "ReactJS",
+        "SQL",
+        "MongoDB",
+        "AWS"
+      ],
+      "certifications": [
+        "AWS Academy Machine Learning Foundation",
+        "Git Essential Training: The Basics (2019)",
+        "Design Patterns",
+        "HTML, CSS, and JavaScript for Web Developers",
+        "Programming Foundations: Fuzzy Logic",
+        "Natural Language Processing with Classification and Vector Spaces",
+        "Build Better Generative Adversarial Networks (GANs)"
+      ]
+    }
+  }
+  
